@@ -1,0 +1,37 @@
+*{
+    margin: 35px;
+}
+body{
+    background-color:black;
+}
+h1{
+    padding: 10px;
+    border: 8px;
+    border-style:solid;
+    border-radius: 30px;
+    color:springgreen;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+p{
+    color:azure;
+    font-style: oblique;
+}
+.imgs{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.sat{
+    border: 10px;
+    border-color: springgreen;
+    border-style: groove;
+    border-radius: 25px;
+}
+.tom{
+    border: 10px;
+    border-color: springgreen;
+    border-style: groove;
+    border-radius: 25px;
+}
